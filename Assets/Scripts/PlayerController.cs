@@ -5,6 +5,7 @@ public class PlayerController : MonoBehaviour
     public float jumpForce = 10f;
     private Rigidbody2D rb;
     private bool isGrounded = true;
+    public Animator anim;
 
     void Start()
     {
@@ -17,6 +18,7 @@ public class PlayerController : MonoBehaviour
         {
             rb.linearVelocity = Vector2.up * jumpForce;
             isGrounded = false;
+            anim.SetTrigger("Jump");
         }
     }
 
@@ -30,7 +32,12 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("Obstacle"))
         {
             Debug.Log("Game Over");
-            Time.timeScale = 0; // Pausa el juego
+            anim.SetTrigger("Death");
         }
+    }
+
+    public void GameOver()
+    {
+        Time.timeScale = 0;
     }
 }
