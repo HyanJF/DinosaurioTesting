@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 06241495bcf58bb43936596ca39b711e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5790264413842000788
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_0
+  - first:
+      213: 492004944709661253
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_1
+  - first:
+      213: 4604014973751334602
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_2
+  - first:
+      213: -9212114991029881140
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_3
+  - first:
+      213: -184317624246021440
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_4
+  - first:
+      213: -8860432986673084689
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_5
+  - first:
+      213: 1913061924764789599
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_6
+  - first:
+      213: -2510850917790579924
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_7
+  - first:
+      213: 4725886542640905064
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_8
+  - first:
+      213: 5711643129554365971
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_9
+  - first:
+      213: 1236157200761139116
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_10
+  - first:
+      213: -2581875573308515628
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_11
+  - first:
+      213: 3628663858090585242
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_12
+  - first:
+      213: 4669319809948333950
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_13
+  - first:
+      213: -6599931106159402219
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_14
+  - first:
+      213: 1913381554071124228
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_15
+  - first:
+      213: -7771858619200865007
+    second: pngtree-glitch-effect-vector-icons-picture-image_8359163_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64bc599139d4afa0800000000000000
+      internalID: -5790264413842000788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 664
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542b725f3e3f3d600800000000000000
+      internalID: 492004944709661253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 664
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6170bb93fb4ef30800000000000000
+      internalID: 4604014973751334602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 664
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6fc99393ef72080800000000000000
+      internalID: -9212114991029881140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2d8f8e81c217df0800000000000000
+      internalID: -184317624246021440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 498
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe68239a42b690580800000000000000
+      internalID: -8860432986673084689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 498
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b2eea4faf8c8a10800000000000000
+      internalID: 1913061924764789599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 498
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c230121b46aa72dd0800000000000000
+      internalID: -2510850917790579924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bf8ee85c8b59140800000000000000
+      internalID: 4725886542640905064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 332
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e63ec2a25d34f40800000000000000
+      internalID: 5711643129554365971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 332
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafa8e5bc66b72110800000000000000
+      internalID: 1236157200761139116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 332
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da10be68d55b2cd0800000000000000
+      internalID: -2581875573308515628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ca9cead8a9b5230800000000000000
+      internalID: 3628663858090585242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 166
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e773aa6c0a1ccc040800000000000000
+      internalID: 4669319809948333950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 166
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513615b70a55864a0800000000000000
+      internalID: -6599931106159402219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 166
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409b13ac262bd8a10800000000000000
+      internalID: 1913381554071124228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d79fd43cfc42490800000000000000
+      internalID: -7771858619200865007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a923467c522f543a48a51cd918447f
+      internalID: 368657762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f96606c3c438b343b08cb68fb5f7374
+      internalID: 482986263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-glitch-effect-vector-icons-picture-image_8359163_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc34c61efb3023478f02a3ca1c027f3
+      internalID: -978153043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e7e74cc989449d2489c18825a0c725fe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_0: -5790264413842000788
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_1: 492004944709661253
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_10: 1236157200761139116
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_11: -2581875573308515628
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_12: 3628663858090585242
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_13: 4669319809948333950
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_14: -6599931106159402219
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_15: 1913381554071124228
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_16: -7771858619200865007
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_17: 368657762
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_18: 482986263
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_19: -978153043
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_2: 4604014973751334602
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_3: -9212114991029881140
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_4: -184317624246021440
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_5: -8860432986673084689
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_6: 1913061924764789599
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_7: -2510850917790579924
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_8: 4725886542640905064
+      pngtree-glitch-effect-vector-icons-picture-image_8359163_9: 5711643129554365971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

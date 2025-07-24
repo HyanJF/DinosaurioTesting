@@ -6,11 +6,13 @@ TagManager:
   tags:
   - Ground
   - Obstacle
+  - Hazard
+  - PlayerBullet
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
